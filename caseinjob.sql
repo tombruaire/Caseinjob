@@ -10,7 +10,7 @@ Create table casebank (
 ) Engine=InnoDB;
 
 Insert into casebank values
-(1, "Competitor Respons",
+(1, 'Competitor Respons',
 	'<h3>R&#233;sultats de la recherche pour <i>Competitor Respons</i> :</h3>
 	<div class="resultat">
 		<div class="lien"><a href="https://drive.google.com/file/d/1HrkRsEgaydOw4TfFTLKDKDv9JflSOd9n/" target="_blank">DD_CR_NM_CPI.pdf</a></div>
